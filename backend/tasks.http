@@ -1,0 +1,5 @@
+@api = "http://127.0.0.1:3000/tasks"
+
+GET {{api}} HTTP/1.1
+
+POST {{api}} HTTP/1.1

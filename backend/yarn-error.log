@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add express mysql2 morgan cors swagger-jsdoc swaggeer-ui-express
+
+PATH: 
+  C:\src\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\src\cmder\vendor\conemu-maximus5;C:\src\cmder\vendor\conemu-maximus5\ConEmu;C:\Python39\Scripts\;C:\Python39\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\ProgramData\chocolatey\bin;C:\Users\USER\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\USER\AppData\Local\Microsoft\WindowsApps;C:\Users\USER\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\USER\AppData\Roaming\npm;C:\Users\USER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\heroku\bin;C:\Users\USER\Downloads\redis;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\src\cmder\vendor\bin;C:\src\cmder
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/swaggeer-ui-express: Not found
+      at Request.params.callback [as _callback] (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:67029:18)
+      at Request.self.callback (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:140883:22)
+      at Request.emit (events.js:376:20)
+      at Request.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141855:10)
+      at Request.emit (events.js:376:20)
+      at IncomingMessage.<anonymous> (C:\Users\USER\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141777:12)
+      at Object.onceWrapper (events.js:482:28)
+      at IncomingMessage.emit (events.js:388:22)
+      at endReadableNT (internal/streams/readable.js:1336:12)
+      at processTicksAndRejections (internal/process/task_queues.js:82:21)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
